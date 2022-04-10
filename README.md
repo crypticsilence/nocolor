@@ -8,10 +8,14 @@ like autorecon output, etc)
 
 For Winpeas/Linpeas, it will make a new file without ansi codes and name it winpeas.nc.txt or linpeas.nc.txt.
 
-# Examples:
+** To use: **
 
-nocolor ansiart.txt > asciiart.txt
-nocolor linpeas
+>sudo mv nocolor /usr/bin ; sudo chmod 755 /usr/bin/nocolor
+
+** Examples: **
+
+>nocolor ansiart.txt > asciiart.txt
+>nocolor linpeas
 
 Honestly, this was a 30 second bash file so this is kind of humorous, just figured I got tired of rewriting it trying different OS's =]
 
