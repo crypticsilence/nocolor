@@ -15,9 +15,10 @@ For Winpeas/Linpeas, it will make a new file without ansi codes and name it winp
 ** Examples: **
 
 >nocolor ansiart.txt > asciiart.txt
->nocolor linpeas
 
-Honestly, this was a 30 second bash file so this is kind of humorous, just figured I got tired of rewriting it trying different OS's =]
+>nocolor LinPEAS.output > LinPEAS.nocolor.txt
+
+* Honestly, this was a 30 second bash file so this is kind of humorous, just figured I got tired of rewriting it trying different OS's =] *
 
 
 
